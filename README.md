@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Bhardwaj</h1>
+<h3 align="center">AI/ML Engineer | Python | Data Science Enthusiast</h3>
 
-<!--
-**aditya00947/aditya00947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 I’m currently working on **Diabetes Prediction ML Project**  
+- 🌱 Learning **Python, Machine Learning, Power BI, SQL**  
+- 🤝 Open to **Internships in AI/ML (On-site Jaipur / Remote)**  
+- 👨‍💻 All my projects will be available here soon  
+- 🎯 Goal: Become a **Job-ready AI/ML Engineer**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools  
+**Python | Pandas | NumPy | Scikit-Learn | Matplotlib | SQL | Power BI | Git**
+
+---
+
+### 📂 My Current Projects  
+- 🧠 **Diabetes Prediction using ML**  
+- 📊 **Data Analytics Dashboard (Power BI)**  
+- 📁 More projects coming soon…
+
+---
+
+### 📫 How to reach me  
+- **Email:** adityabhardwaj@gmail.com (Replace with your real email)  
+- **LinkedIn:** www.linkedin.com/in/aditya-bhardwaj-b72a24290
+- **GitHub:** https://github.com/aditya00947  
+
+---
+
+⭐ **Feel free to explore my repositories and connect!**  
+
